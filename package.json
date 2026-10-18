@@ -1,0 +1,20 @@
+{
+  "name": "student-profile-web",
+  "version": "1.0.0",
+  "description": "2026011579 현지원 - Node.js 웹사이트",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "vercel"
+  ],
+  "author": "현지원",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
